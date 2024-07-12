@@ -35,7 +35,7 @@ Estou sempre em busca de novas oportunidades para colaborar com equipes dinâmic
 
 ## Minhas Estatísticas no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=edmilsondias&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eddie-naipes&show_icons=true&theme=radical)
 
 ## Contato
 
