@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor com 5 anos de experiência, apaixonado por tecnologia e inovação. Minha jornada começou com a criação da minha startup, "Naipe Sync Solutions", com o objetivo de ajudar pessoas e gerar renda fazendo o que mais amo: inovar e disponibilizar ferramentas eficazes.
+Sou um desenvolvedor com 5 anos de experiência, apaixonado por tecnologia e inovação. Minha jornada começou com a criação da minha startup, com o objetivo de ajudar pessoas e gerar renda fazendo o que mais amo: inovar e disponibilizar ferramentas eficazes.
 
 Tenho uma forte habilidade em me comunicar com diversas pessoas, o que me permite adquirir conhecimentos e experiências valiosas, sempre buscando as soluções mais eficientes e rápidas.
 
